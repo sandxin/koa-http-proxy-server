@@ -1,0 +1,22 @@
+{
+  "name": "koa-http-proxy-server",
+  "version": "1.0.1",
+  "description": "http-proxy-middleware for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http-proxy",
+    "koa-proxy",
+    "koa-http-proxy",
+    "http-proxy-middleware",
+    "koa-server-http-proxy"
+  ],
+  "author": "sandxin",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.0",
+    "koa2-connect": "^1.0.2"
+  }
+}
