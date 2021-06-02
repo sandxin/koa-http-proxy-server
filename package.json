@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "http-proxy-middleware for koa2",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sandxin/koa-http-proxy-server.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
