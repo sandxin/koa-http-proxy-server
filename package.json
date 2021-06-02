@@ -1,6 +1,6 @@
 {
   "name": "koa-http-proxy-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "http-proxy-middleware for koa2",
   "main": "index.js",
   "repository": {
